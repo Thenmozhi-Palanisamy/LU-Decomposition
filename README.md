@@ -12,7 +12,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Print elements of L and u
 3. find v by solving LV=b by forward substitution
 4. find x by solving UX= v by a backward subsitution
-5.print array X as the solution 
+5. print array X as the solution 
 
 ## Program:
 ```
